@@ -1,0 +1,8 @@
+[Running] cd "c:\Users\srt\Documents\CalculatorTask\" && javac Main.java && java Main
+70.0-56.0=14.0
+70.0%56.0=14.0
+Your first number is:89.0 and your second number is:56.0
+89.0/56.0=1.5892857142857142
+
+[Done] exited with code=0 in 0.88 seconds
+

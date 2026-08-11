@@ -1,0 +1,13 @@
+[Running] cd "c:\Users\srt\Documents\CarTask\" && javac Main.java && java Main
+Displaying info of Tesla:
+Your car's speed is:60 and direction is:0.0
+Current speed of Audi is:120
+Speed cannot be negative! Setting to 0.
+New speed of Audi is:0
+Current direction of BMW is:45.0
+New direction of BMW is:60.0
+Driving Tesla
+Driving forward at 60 km/h!
+
+[Done] exited with code=0 in 0.761 seconds
+
